@@ -1,0 +1,10 @@
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\bin\Debug\Selection_4.exe.config
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\bin\Debug\Selection_4.exe
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\bin\Debug\Selection_4.pdb
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\bin\Debug\Amazon.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\bin\Debug\Amazon.pdb
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\obj\Debug\Selection_4.csprojAssemblyReference.cache
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\obj\Debug\Selection_4.csproj.CoreCompileInputs.cache
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\obj\Debug\Selection_4.csproj.CopyComplete
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\obj\Debug\Selection_4.exe
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_4\obj\Debug\Selection_4.pdb
