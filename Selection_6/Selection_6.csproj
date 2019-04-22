@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{616A91BD-9128-46D4-AFE6-5C7535A8B8FF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Selection_6</RootNamespace>
+    <AssemblyName>Selection_6</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InterfaceAndPolymorphism\INotificationChannel.cs" />
+    <Compile Include="InterfaceAndPolymorphism\Mail.cs" />
+    <Compile Include="InterfaceAndPolymorphism\MailNotification.cs" />
+    <Compile Include="InterfaceAndPolymorphism\MailServices.cs" />
+    <Compile Include="InterfaceAndPolymorphism\Message.cs" />
+    <Compile Include="InterfaceAndPolymorphism\SmsNotificationChannel.cs" />
+    <Compile Include="InterfaceAndPolymorphism\Video.cs" />
+    <Compile Include="InterfaceAndPolymorphism\VideoEncoder.cs" />
+    <Compile Include="InterfaceAndTestbility\Order.cs" />
+    <Compile Include="InterfaceAndTestbility\OrderProcessor.cs" />
+    <Compile Include="InterfaceAndTestbility\Shipment.cs" />
+    <Compile Include="InterfaceAndTestbility\ShippingCalculator.cs" />
+    <Compile Include="InterfacesAndExtensibility\ConsoleLogger.cs" />
+    <Compile Include="InterfacesAndExtensibility\DbMigrator.cs" />
+    <Compile Include="InterfacesAndExtensibility\FileLogger.cs" />
+    <Compile Include="InterfacesAndExtensibility\ILogger.cs" />
+    <Compile Include="MultipleInheritance\IDraggable.cs" />
+    <Compile Include="MultipleInheritance\IDroppable.cs" />
+    <Compile Include="MultipleInheritance\Position.cs" />
+    <Compile Include="MultipleInheritance\Size.cs" />
+    <Compile Include="MultipleInheritance\UIControl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,17 @@
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Selection_6_TestBility.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Selection_6_TestBility.pdb
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Selection_6.exe
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Selection_6.pdb
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Selection_6.exe.config
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\obj\Debug\Selection_6_TestBility.csprojAssemblyReference.cache
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\obj\Debug\Selection_6_TestBility.csproj.CoreCompileInputs.cache
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\obj\Debug\Selection_6_TestBility.csproj.CopyComplete
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\obj\Debug\Selection_6_TestBility.dll
+E:\Pelatihan\HariKe-18\C sharp Intermediate\C Sharp Intermediate\Selection_6_TestBility\obj\Debug\Selection_6_TestBility.pdb
